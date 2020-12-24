@@ -1,0 +1,17 @@
+table, td, th {
+  border: 1px solid;
+}
+
+td {
+  padding: 5px;
+  padding-right: 20px;
+}
+td.num{
+  padding-right: 5px;
+  font-weight: bold;
+}
+td.price {
+  padding-right: 5px;
+  text-align: right;
+  padding-left: 20px;
+}
